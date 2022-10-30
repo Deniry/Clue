@@ -1,0 +1,297 @@
+Desarrollo de personajes
+
+Sam Fisher
+Ocupacion: SEAL de la Marina
+
+Isaac Briggs
+Ocupacion: Operador de campo de Fourth Echelon
+
+Mikhail Loskov (Kestrel)
+Ocupacion: Agente de campo de Voron
+
+Anna Grimsdottir (Grim)
+Ocupacion: Oficial de operaciones tecnicas de Fourth Echelon
+
+Robert Sloane (Archer)
+Ocuapcion: Operador de campo de Third Echelon
+
+
+
+
+
+Codigo rojo esto no es un simulacro!!!!
+Alguien a matado a nuestro informante Andriy Kobin
+Hay un traidor abordo del avion, como lider de seguridad del
+Paladin es tu deber encontrarlo.
+
+
+
+
+Dentro del Paladin hay 4 sospechosos:
+Lista de personajes restantes
+
+Hay # lugares posibles donde pudo ocurrir el asesinato
+Lista de lugares en el Paladin
+
+Las armas que pudieron ser usadas para el asesinato son:
+Cuchillo
+Five Seven(Pistola con silenciador)
+MP5 Sileciada
+SC-20K Silenciada
+Ballesta
+
+Podras consultar la informacion recopilada por el sistema de
+seguridad del Paladin 4 veces, tu mision es encontrar 
+el arma con el que fue ocasionado el omicidio, en donde fue 
+el altercado e identificar al traidor en la nave y 
+capturarlo, en caso de que lo logres seras recompensado por 
+tus esfuerzos, de lo contrario es probable que el asesino
+termine eliminandote ya que todos los integrantes de 
+la nave son agentes altamente entrenados.
+Rezamos por su exito, que tenga suerte soldado.
+
+
+
+
+
+1er escenario
+
+________menciona que estubo en el taller de Charlie mejorando
+su equipo, menciona que vio en el taller ______________
+Las camaras de seguridad confirman que _______________
+estuvo en el lugar, pero ___________ no estaba por
+ningun lado del taller.
+Las camaras funcionaron en todo momento.
+
+
+___________ dice que se encontraba en el area medica
+haciendo inventario del equipo medico disponible, menciona
+que encima de la camilla estaba ______________ , las camaras
+confirman que _____________ si estaba en el lugar al igual
+que _______________ se encontraba encima de la camilla.
+Las camaras funcionaron en todo momento.
+
+
+___________ menciono que estaba dandole mantenimiento al
+helicoptero en la zona de carga, encima de una caja estaba
+___________, las camaras confirman que ____________ estaba 
+ahi al igual que ____________ estaba sobre una de las cajas.
+Las camaras funcionaron en todo momento.
+
+
+_____________ informa que se encontraba en el alojamiento de
+pasajeros descansando en su cama, dice haber visto __________
+en una de las literas, las camaras confirman que ___________
+estaba en las literas, pero _____________ no se encontraba
+en ningun lugar del alojamiento de pasajeros.
+Las camaras funcionaron en todo momento.
+
+
+_____________ reporta que se encontraba en la cabina del
+avion revisando los controles, dice haber visto ____________
+en la cabina, las camaras confirman que _________________
+estaba en la cabina y ____________ tambien se encontraba ahi
+Las camaras dejaron de funcionar por un momento.
+
+
+
+
+
+2do escenario
+
+________menciona que estubo en el taller de Charlie mejorando
+su equipo, menciona que vio en el taller ______________
+Las camaras de seguridad confirman que _______________
+estuvo en el lugar y ___________ si estaba en el taller.
+Las camaras funcionaron en todo momento.
+
+
+___________ dice que se encontraba en el area medica
+haciendo inventario del equipo medico disponible, menciona
+que encima de la camilla estaba ______________ , las camaras
+confirman que _____________ si estaba en el lugar al igual
+que _______________ se encontraba encima de la camilla.
+Las camaras dejaron de funcionar por un momento.
+
+
+___________ menciono que estaba dandole mantenimiento al
+helicoptero en la zona de carga, encima de una caja estaba
+___________, las camaras confirman que ____________ estaba 
+ahi, pero ____________ no estaba sobre ninguna de las cajas.
+Las camaras funcionaron en todo momento.
+
+
+_____________ informa que se encontraba en el alojamiento de
+pasajeros descansando en su cama, dice haber visto __________
+en una de las literas, las camaras confirman que ___________
+estaba en las literas al igual que ______________ estaba
+descansando en el alojamiento de pasajeros.
+Las camaras funcionaron en todo momento.
+
+
+_____________ reporta que se encontraba en la cabina del
+avion revisando los controles, dice haber visto ____________
+en la cabina, las camaras no encontraron a _________________
+en la cabina y ____________ si se encontraba en la cabina.
+Las camaras funcionaron en todo momento.
+
+
+
+
+
+
+
+
+3er escenario
+
+________menciona que estubo en el taller de Charlie mejorando
+su equipo, menciona que vio en el taller ______________
+Las camaras de seguridad confirman que _______________
+estuvo en el lugar, ___________ estaba en una de las mesas
+del taller.
+Las camaras dejaron de funcionar por un momento.
+
+
+___________ dice que se encontraba en el area medica
+haciendo inventario del equipo medico disponible, menciona
+que encima de la camilla estaba ______________ , las camaras
+confirman que _____________ si estaba en el lugar al igual
+que _______________ se encontraba encima de la camilla.
+Las camaras funcionaron en todo momento.
+
+
+___________ menciono que estaba dandole mantenimiento al
+helicoptero en la zona de carga, encima de una caja estaba
+___________, las camaras no encontraban a ____________ por 
+ningun lado de lazona de carga, ____________ si estaba sobre 
+una de las cajas.
+Las camaras funcionaron en todo momento.
+
+
+_____________ informa que se encontraba en el alojamiento de
+pasajeros descansando en su cama, dice haber visto __________
+en una de las literas, las camaras confirman que ___________
+estaba en las literas al igual que ______________ estaba
+descansando en el alojamiento de pasajeros.
+Las camaras funcionaron en todo momento.
+
+
+_____________ reporta que se encontraba en la cabina del
+avion revisando los controles, dice haber visto ____________
+en la cabina, las camaras confirman que _________________ si
+estaba en la cabina, pero  ____________ no se encontraba por
+ningun lado de la cabina.
+Las camaras funcionaron en todo momento.
+
+
+
+
+
+
+
+
+4to escenario
+
+________menciona que estubo en el taller de Charlie mejorando
+su equipo, menciona que vio en el taller ______________
+Las camaras de seguridad no encontraron a _______________
+por ningun sitio en el taller, pero ___________ si estaba en 
+una de las mesas del taller.
+Las camaras funcionaron en todo momento.
+
+
+___________ dice que se encontraba en el area medica
+haciendo inventario del equipo medico disponible, menciona
+que encima de la camilla estaba ______________ , las camaras
+confirman que _____________ si estaba en el lugar, pero
+_______________ no se encontraba encima de la camilla.
+Las camaras funcionaron en todo momento.
+
+
+___________ menciono que estaba dandole mantenimiento al
+helicoptero en la zona de carga, encima de una caja estaba
+___________, las camaras confirman que ____________ estaba 
+ahi al igual que ____________ estaba sobre una de las cajas.
+Las camaras funcionaron en todo momento.
+
+
+_____________ informa que se encontraba en el alojamiento de
+pasajeros descansando en su cama, dice haber visto __________
+en una de las literas, las camaras confirman que ___________
+estaba en las literas al igual que  _____________ se
+encontraba descansando en el alojamiento de pasajeros.
+Las camaras dejaron de funcionar por un momento.
+
+
+_____________ reporta que se encontraba en la cabina del
+avion revisando los controles, dice haber visto ____________
+en la cabina, las camaras confirman que _________________
+estaba en la cabina y ____________ tambien se encontraba ahi
+Las camaras funcionaron en todo momento.
+
+
+
+
+
+
+
+
+5to escenario
+
+________menciona que estubo en el taller de Charlie mejorando
+su equipo, menciona que vio en el taller ______________
+Las camaras de seguridad confirman que _______________
+estuvo en el lugar y  ___________ estaba en una mesa del
+taller.
+Las camaras funcionaron en todo momento.
+
+
+___________ dice que se encontraba en el area medica
+haciendo inventario del equipo medico disponible, menciona
+que encima de la camilla estaba ______________ , las camaras
+no encontraron a _____________ por ningun lado del area
+medica, pero confirman que _______________ se encontraba
+encima de la camilla.
+Las camaras funcionaron en todo momento.
+
+
+___________ menciono que estaba dandole mantenimiento al
+helicoptero en la zona de carga, encima de una caja estaba
+___________, las camaras confirman que ____________ estaba 
+ahi al igual que ____________ estaba sobre una de las cajas.
+Las camaras dejaron de funcionar por un momento.
+
+
+_____________ informa que se encontraba en el alojamiento de
+pasajeros descansando en su cama, dice haber visto __________
+en una de las literas, las camaras no detectaron ___________
+encima de las literas, pero confirman que _____________ se 
+encontraba descasando en el alojamiento de pasajeros.
+Las camaras funcionaron en todo momento.
+
+
+_____________ reporta que se encontraba en la cabina del
+avion revisando los controles, dice haber visto ____________
+en la cabina, las camaras confirman que _________________
+estaba en la cabina y ____________ tambien se encontraba ahi
+Las camaras funcionaron en todo momento.
+
+
+
+Soluciones
+
+
+El asesino es el que dijo estar en el alojamiento, lo mato 
+en la cabina con el arma del taller de charly
+
+El asesino es e que dijo estar en la cabina, lo mato con el 
+arma de la zona de carga en el area medica
+
+El asesino es el que menciono estar en la zona de carga, lo
+mato con el arma de la cabina en el taller
+
+El asesino es el que dijo estar en el taller, lo mato con el
+arma del area medica en el alojamiento
+
+El asesino es el que dijo estar en el area medica, lo mato con el
+arma del alojamiento, en la zona de carga

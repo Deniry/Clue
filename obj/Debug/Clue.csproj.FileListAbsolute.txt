@@ -1,0 +1,16 @@
+C:\Users\drago\source\repos\Expertos\Clue\bin\Debug\Clue.exe.config
+C:\Users\drago\source\repos\Expertos\Clue\bin\Debug\Clue.exe
+C:\Users\drago\source\repos\Expertos\Clue\bin\Debug\Clue.pdb
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.csproj.SuggestedBindingRedirects.cache
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormClue.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.Properties.Resources.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.csproj.GenerateResource.cache
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.exe
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.pdb
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormSospechosos.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormArmas.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormLugares.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormInstrucciones.resources
+C:\Users\drago\source\repos\Expertos\Clue\obj\Debug\Clue.FormAcusar.resources
